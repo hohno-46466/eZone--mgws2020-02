@@ -1,4 +1,4 @@
-# eZone--mgws2020-02
+# GitHub/eZone--mgws2020-02
 
 README.md
 
@@ -13,3 +13,5 @@ Monogramming Workshop Aug/2019
 Monogramming Workshop Sep/2019
   https://github.com/hohno-46466/eZone--mgmgws201909
 
+
+-EOF-
