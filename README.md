@@ -13,7 +13,8 @@ Monogramming Workshop Aug/2019
 Monogramming Workshop Sep/2019
   https://github.com/hohno-46466/eZone--mgmgws201909
 
-
 Note: 	url = https://github.com/hohno-46466/eZone--mgws2020-02
+
+Note:   url = git@github.com:hohno-46466/eZone--mgws2020-02.git
 
 -EOF-
