@@ -24,8 +24,8 @@ Monogramming Workshop Sep/2019
      
      2 directories, 5 files (Thu Jul 14 04:11:24 JST 2022)
 
-Note: 	url = https://github.com/hohno-46466/eZone--mgws2020-02
+Note: url = https://github.com/hohno-46466/eZone--mgws2020-02
 
-Note:   url = git@github.com:hohno-46466/eZone--mgws2020-02.git
+Note: url = git@github.com:hohno-46466/eZone--mgws2020-02.git
 
 -EOF-
