@@ -22,7 +22,8 @@ Monogramming Workshop Sep/2019
      ├──  README.md.bak
      └──  README.md.old
      
-     2 directories, 5 files (Thu Jul 14 04:11:24 JST 2022)
+     2 directories, 5 files (Fri Aug 12 22:01:10 JST 2022)
+
 
 Note: URL = https://github.com/hohno-46466/eZone--mgws2020-02
 
